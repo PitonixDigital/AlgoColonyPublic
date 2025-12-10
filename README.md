@@ -17,7 +17,7 @@ Links
 [AlgoColony Home Page](https://algocolony.com/)
  – Learn more about the platform and our approach to algorithmic trading.
 
-[Python DCA Script Repository](https://github.com/PitonixDigital/AlgoColonyPublic/utilities/CryptoDCA)
+[Python DCA Script Repository](https://github.com/PitonixDigital/AlgoColonyPublic/tree/main/utilities/CryptoDCA)
  – Direct link to one of our featured utilities.
 
 We welcome contributions, suggestions, and collaboration. Feel free to explore, experiment, and share your ideas!
